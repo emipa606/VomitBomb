@@ -19,7 +19,7 @@ create it with a stove.
 
 I can only use Japanese. 
 English is reliance on translation website. 
-I'm happy to tell you the requests and problems in simple English.
+I&apos;m happy to tell you the requests and problems in simple English.
 
 You can freely modify and redistribute this MOD
 
