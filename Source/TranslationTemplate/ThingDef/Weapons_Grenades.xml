@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: vomit bomb -->
+  <GrenadeVomit.label>vomit bomb</GrenadeVomit.label>
+  <!-- EN: Continer with a small flash-charge and filled with vomit. -->
+  <GrenadeVomit.description>Continer with a small flash-charge and filled with vomit.</GrenadeVomit.description>
+  <!-- EN: throw vomit bomb -->
+  <GrenadeVomit.verbs.throw_vomit_bomb.label>throw vomit bomb</GrenadeVomit.verbs.throw_vomit_bomb.label>
+  <!-- EN: vomit bomb cocktail -->
+  <Proj_GrenadeVomit.label>vomit bomb cocktail</Proj_GrenadeVomit.label>
+</LanguageData>
